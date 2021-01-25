@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 # Add devise views with bootstrap
 gem 'devise-bootstrap-views', '~> 1.0'
+# Add iex cloud client to get the stocks api
+gem 'iex-ruby-client'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
